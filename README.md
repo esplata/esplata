@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esplata
-- 👀 I’m interested in gneral programming issues: COBOL, Java, Python, Basic
+- 👀 I’m interested in general programming issues: COBOL, Java, Python, Basic
 - 📫 How to reach me . to my mail... es_plata at yahoo.it
 
 <!---
